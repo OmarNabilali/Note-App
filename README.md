@@ -49,6 +49,9 @@ lib/
 ├── widgets/            # Custom reusable widgets
 ├── main.dart           # App entry point
 
+
+
+
 🎯 Goals
 This project is part of my Flutter learning journey. It focuses on:
 
@@ -57,5 +60,3 @@ Using Hive as a local database
 Managing app state using Bloc/Cubit
 
 Building reusable and clean UI components
-
-
